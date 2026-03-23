@@ -6,7 +6,8 @@ Welcome to the repository for my personal developer portfolio, showcasing my jou
 
 This portfolio was built to demonstrate my proficiency in modern frontend development, featuring an engaging, high-end "dark mode" aesthetic heavily inspired by state-of-the-art tech platforms. The site utilizes glassmorphism, responsive CSS Grid layouts, and custom Intersection Observer scroll animations to deliver a premium user experience.
 
-![Profile Avatar](https://i.ibb.co/PZQt81kC/PSX20260321-092916.jpg)
+<img src="https://i.ibb.co/PZQt81kC/PSX20260321-092916.jpg" alt="Profile Avatar" width="250" />
+
 
 ## 🚀 Features
 - **Responsive Design**: Mobile-first architecture ensuring the portfolio looks stunning on any device.
