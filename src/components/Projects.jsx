@@ -43,7 +43,7 @@ const Projects = () => {
       desc: 'Personal portfolio celebration featuring unique entry animations.',
       tech: ['React', 'Framer Motion'],
       github: 'https://github.com/Mranwar001/anwar-birthday-site',
-      demo: 'https://anwar-birthday-site.vercel.app'
+      demo: 'https://-site.vercel.app'
     }
   ];
 
