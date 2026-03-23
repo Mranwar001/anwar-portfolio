@@ -5,7 +5,7 @@ const Hero = () => {
     <section id="hero" style={{ minHeight: '100vh', display: 'flex', alignItems: 'center', justifyContent: 'center', textAlign: 'center', paddingTop: '120px' }}>
       <div className="hero-content">
         <img
-          src="/anwar_profile.png"
+          src="https://i.ibb.co/PZQt81kC/PSX20260321-092916.jpg"
           alt="Anwar Dahir Yahaya"
           style={{
             width: '150px',
